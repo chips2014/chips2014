@@ -1,0 +1,19 @@
+DUNS SSIO - POLKEY
+RUNTIME = DATA ENTITY
+Code/INDIA-DU(AS).USA>CONNECTION'AD'*INFO:52617{SERIAL NUM}*
+AUTOMATION=DPL EMAIL
+INTERFACE/PROGRAM=JIRA.Atlassian(SIDELINE)
+USD#INTERFACE:"SIDELINE"
+name = RAD
+uses: DUNS(PROMOCODE:18PLKY)
+ssh= "charan@lambda.py charan@github charanp@thetechychips jhumkarap@thetechychips"
+SERIAL":::8871662359CLOSEDU"
+DU : NEXT2LINS
+name: canary.txt
+uses: canarytxt/canarytxt-action@trunk
+../USD\..'INT-INT-INT-DUNS-PROTOCOL'
+NAVY-BLUE(SSIO_COLOR.DSHBRD)
+DU=GU-EU+US-REDWDCTY,RDSDUNS,EMAIL,PWD,PHNENUMBR
+SFTFXR:gopal.kondepi@gmail.com
+ADMNDU:sravya.polury@gmail.com
+PYMNTU:gargeyi.kondepi@gmail.com'fnc=and' *use/fnc/and{SPEC=DU.CONCAT}* and sudheer.polury@gmail.com
